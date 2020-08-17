@@ -15,7 +15,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
----
 
 ## Hi there 👋,           
 I'm Carlos Eduardo, but you can call me **Dudu**.  I'm a Fullstack developer from Brazil.
