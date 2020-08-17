@@ -2,7 +2,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/carlos-eduardo-7240ab142">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5581998566719">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5581998646719">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/ehduardu/">
@@ -23,7 +23,7 @@ I'm Carlos Eduardo, but you can call me **Dudu**.  I'm a Fullstack developer fro
 
 - 🏝️ Living in Recife-PE
 - 🎮 I love play games
-- 🤘🏻  A a true rock lover 
+- 🤘🏻   A a true rock lover 
 - 🔍 I am curious, i like to research and learn about things, i love challenges
 - 👨🏻‍💻 I currently work a lot with Javascript and Google technologies (GCP, GAS...) 🔵🔴🟡🟢
-- ➕ And Many More...
+- ➕ And many more...
