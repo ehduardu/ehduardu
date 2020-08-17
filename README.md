@@ -26,5 +26,5 @@ I'm Carlos Eduardo, but you can call me **Dudu**.  I'm a Fullstack developer fro
 - 🎮 I love play games
 - 🤘🏻  A a true rock lover 
 - 🔍 I am curious, i like to research and learn about things, i love challenges
-- 👨🏻‍💻 I currently work a lot with javascript and Google technologies (GCP, GAS...) 🔵🔴🟡🟢
+- 👨🏻‍💻 I currently work a lot with Javascript and Google technologies (GCP, GAS...) 🔵🔴🟡🟢
 - ➕ And Many More...
