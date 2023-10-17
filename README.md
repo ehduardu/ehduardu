@@ -9,15 +9,15 @@
 
 ## Hi there 👋,
 
-I'm Carlos Eduardo, but you can call me **Dudu**. I'm a Fullstack developer from Brazil.
+I'm Carlos Eduardo, but you can call me **Dudu**. I'm a Fullstack developer, currently focused on backend, from Brazil.
 
-## 🧐 About
+## 🧐 About me
 
 - 🏝️ Living in Recife-PE
 - 🎮 I love play games
 - 🤘🏻 A true rock lover
-- 🔍 I am curious, I like to research and learn about things, I love challenges
-- 👨🏻‍💻 I currently work a lot with Javascript and Google technologies (GCP, GAS...) 🔵🔴🟡🟢
+- 🔍 I am curious, I like to research and learn about things, and love challenges
+- 👨🏻‍💻 I currently work a lot with JS, TS, NodeJs, React, AWS and Google technologies (GCP, GAS...) 🔵🔴🟡🟢
 - ➕ And many more...
 
  <div>
@@ -33,7 +33,14 @@ I'm Carlos Eduardo, but you can call me **Dudu**. I'm a Fullstack developer from
   <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dudu-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+  <img align="center" alt="Dudu-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Dudu-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Dudu-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Dudu-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Dudu-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Dudu-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Dudu-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Dudu-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
   ##
